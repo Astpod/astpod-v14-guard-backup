@@ -1,2 +1,4 @@
-# astpod-v14-guard-backup
-Eskidende kullandığım bir guard botu çalışıyor her hangi bir hatası yoktur kullanabilirsiniz.
+# Astpod V14 Guard & Backup Bot
+
+
+Beni tanıyan tanır Eskidende kullandığım bir guard & backup botu v14 çevirdim çalışıyor her hangi bir hatası yoktur kullanabilirsiniz.
