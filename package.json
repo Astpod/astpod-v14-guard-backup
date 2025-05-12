@@ -1,0 +1,21 @@
+{
+  "name": "astpod-guard",
+  "version": "1.0.0",
+  "description": "Astpod Sex",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "author": "Astpod",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "fs": "^0.0.1-security",
+    "mongoose": "^6.1.8",
+    "winston": "^3.11.0",
+    "request": "^2.88.2"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
